@@ -102,7 +102,7 @@ Have feedback or want to collaborate?
 
 - **Email:** projects.aymanbouaziz@gmail.com
 - 
-- **GitHub:** https://github.com/AymanBouaziz-19/
+- **GitHub:** https://github.com/AymanBouaziz-19
 - 
 - **LinkedIn:** https://www.linkedin.com/in/ayman-bouaziz-7ab181349
 
