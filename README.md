@@ -5,9 +5,9 @@
 
 ## 🧠 What is IDentex AI?
 
-IDentex AI is a next-generation **automated student attendance and access management system** designed for **schools, universities, and educational institutions**. Powered by **AI, Data Analytics, QR/NFC tech**, and a sleek hardware interface, it ensures precise and secure student identification — effortlessly and instantly.
+IDentex AI is a next-generation **automated student attendance and access management system** designed for **schools, universities, and educational institutions**. Powered by **AI, Data Analytics, QR/NFC tech**, and a sleek hardware interface, it ensures precise and secure student identification effortlessly and instantly.
 
-> 🎯 Status: Currently in concept and research phase — under deep development and critical design thinking.  
+> 🎯 Status: Currently in concept and research phase under deep development and critical design thinking.  
 > 🔬 Originated from real student experiences + smart attendance systems + personal vision for institutional impact.
 
 ---
@@ -92,7 +92,7 @@ To create a **universally adopted AI-based attendance ecosystem** that blends se
 ## 🛠️ Status
 
 > 🧠 **This is a concept in active ideation and planning.**  
-I am researching every technical component deeply — from hardware integrations to cloud infrastructure — to ensure the future build is robust and scalable.
+I am researching every technical component deeply from hardware integrations to cloud infrastructure — to ensure the future build is robust and scalable.
 
 ---
 
@@ -110,9 +110,9 @@ Have feedback or want to collaborate?
 
 ## 🌟 Final Words
 
-This project is more than just code. It’s a **vision for a better academic system** — one that respects students, supports educators, and empowers institutions with smart data.
+This project is more than just code. It’s a **vision for a better academic system** one that respects students, supports educators, and empowers institutions with smart data.
 
-> 🚀 Let’s bring the future to the classroom — one scan at a time.
+> 🚀 Let’s bring the future to the classroom one scan at a time.
 
 - **Admin Dashboard Ready!**: 
 
