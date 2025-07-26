@@ -113,3 +113,18 @@ Have feedback or want to collaborate?
 This project is more than just code. It’s a **vision for a better academic system** — one that respects students, supports educators, and empowers institutions with smart data.
 
 > 🚀 Let’s bring the future to the classroom — one scan at a time.
+
+Admin Dashboard Ready!: 
+
+![1000011209](https://github.com/user-attachments/assets/b32af00a-b326-47f6-bf7a-1542ec7d14c3)
+![1000011210](https://github.com/user-attachments/assets/ca43f2af-e7a4-4724-8200-2f37182f962e)
+![IMG_20250721_164051](https://github.com/user-attachments/assets/0d1719c8-5403-4561-a5b9-f59fb31d8f7f)
+
+Student Dashboard Ready!:
+
+![1000011213](https://github.com/user-attachments/assets/13603c98-ec8c-416c-9f2a-767e38926fd2)
+![1000011215](https://github.com/user-attachments/assets/07242bfb-44ee-49f6-a6ba-9cc4a3da8819)
+![1000011217](https://github.com/user-attachments/assets/3b8343ff-ce30-4271-9f34-79514deba789)
+![1000011218](https://github.com/user-attachments/assets/878e2ae0-5204-4ecc-a5d5-fa43aa897abc)
+
+
